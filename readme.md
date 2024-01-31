@@ -238,3 +238,6 @@ vector<uint8_t> generateNonce()
 ```getKeyFromUser```, ```getNonceFromUser```, ```getCipherFromUser```,
 ```printHexVector``` are used for their respective purposes. The main function
 handles the program flow according to user's choice.
+
+## Important Note
+This program has been written as an academic assignment and for easy understanding of the algorithm. Usage of this code for real world application definitely not recommended by RakinRkz.
