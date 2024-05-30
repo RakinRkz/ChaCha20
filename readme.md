@@ -1,3 +1,6 @@
+# ChaCha20 easy implementation
+This is an easy and intuitive implementation for ChaCha20 symmetric encryption algorithm. This implementation has been done for educational purposes only. No guarranty to be used at real world scenarios.
+
 ## Instructions for running:
 * run the chacha20.cpp file using any c++ compiler. (Can also run online: https://www.programiz.com/cpp-programming/online-compiler/)
 * In a single run of the program, only one encryption or decryption can be done.
